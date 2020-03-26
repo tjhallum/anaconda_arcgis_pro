@@ -1,6 +1,6 @@
 ## Setup Anaconda to Manage Cloned ArcGIS Pro Python Environments
 
- **1. Run ArcGIS Pro as Administrator**
+ **1. Run ArcGIS Pro as Administrator.**
  
 ![Run ArcGIS Pro as Admin](https://raw.githubusercontent.com/tjhallum/anaconda_arcgis_pro/master/1-run_arc_as_admin.png)
 
@@ -13,7 +13,8 @@
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/3-anaconda_cant_see_arcgis_pro_python_env.png)
 
 **4. Locate Anaconda's .condarc file (C:\Users\XXXXXXXX\.condarc). Original file content:**
-			![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/4-orig_condarc_file.png)
+
+![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/4-orig_condarc_file.png)
 
 **5. Make the necessary edits to the .condarc file:**
 
@@ -28,6 +29,6 @@
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/7-arcgis_pro_make_new_python_env_active.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Nzg2MTcyNCwtMTk0MzA2OTI4MCwtMT
+eyJoaXN0b3J5IjpbLTYxOTcyNTkwOCwtMTk0MzA2OTI4MCwtMT
 M2NDk4MDUwOV19
 -->
