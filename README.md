@@ -10,8 +10,11 @@
 			 6. ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/3-anaconda_cant_see_arcgis_pro_python_env.png)
 		 6. Locate Anaconda's .condarc file:
 			 7. Path: C:\Users\XXXXXXXX\.condarc
-			 8. Make necessa
+				 8. Original file content:
+					 9. ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/4-orig_condarc_file.png)
+			 8. Make the necessary to the .condarc file:
+				 9. Original 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzMyNjYxMV19
+eyJoaXN0b3J5IjpbLTE0NjI2NzI4ODRdfQ==
 -->
