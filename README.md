@@ -12,9 +12,11 @@
 			 7. Path: C:\Users\XXXXXXXX\.condarc
 				 8. Original file content:
 					 9. ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/4-orig_condarc_file.png)
-			 8. Make the necessary to the .condarc file:
-				 9. Original 
+			 8. Make the necessary edits to the .condarc file:
+				 9. ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/5-amended_condarc_file.png)
+		 7. There, now the ArcGIS Pro Python environment that we cloned for the purposes of deep learning is available to us for configuration in Anaconda’s familiar GUI & Command Line interfaces:
+			 8. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI2NzI4ODRdfQ==
+eyJoaXN0b3J5IjpbLTU5NjkzOTM2NV19
 -->
