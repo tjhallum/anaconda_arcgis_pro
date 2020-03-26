@@ -1,4 +1,4 @@
-## Setup Anaconda to Manage Cloned ArcGIS Pro Python Environments
+## Setup Anaconda to Manage Cloned ArcGIS Pro Python Virtual Environments
 
  **1. Run ArcGIS Pro as Administrator.**
  
@@ -24,11 +24,11 @@
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/6-anaconda_sees_arcgis_pro_python_env.png)
 
-**7. Finally, now that our Python environment for deep learning in ArcGIS Pro is properly configured, we just need to make sure that we set it as ArcGIS Pro's active Python virtual environment for our project in ArcGIS Pro:**
+**7. Finally, now that our cloned ArcGIS Pro Python virtual environment for in ArcGIS Pro is properly configured, we just need to make sure that we set it as ArcGIS Pro's active Python virtual environment like so:**
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/7-arcgis_pro_make_new_python_env_active.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5NTExMTQyLC0xOTQzMDY5MjgwLC0xMz
-Y0OTgwNTA5XX0=
+eyJoaXN0b3J5IjpbLTExMDc3ODM1NjMsLTE5NDMwNjkyODAsLT
+EzNjQ5ODA1MDldfQ==
 -->
