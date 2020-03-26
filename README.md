@@ -20,15 +20,15 @@
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/5-amended_condarc_file.png)
 
-**6. There, now the ArcGIS Pro Python environment that we cloned for the purposes of deep learning is available to us for configuration in Anaconda’s familiar GUI & Command Line interfaces:**
+**6. There, now our cloned ArcGIS Pro Python environment is available for configuration in Anaconda’s familiar GUI & Command Line interfaces:**
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/6-anaconda_sees_arcgis_pro_python_env.png)
 
-**7. Finally, now that our Python environment for deep learning in ArcGIS Pro is properly configured, we just need to make sure that we set it as the active Python environment for our project in ArcGIS Pro:**
+**7. Finally, now that our Python environment for deep learning in ArcGIS Pro is properly configured, we just need to make sure that we set it as ArcGIS Pro's active Python virtual environment for our project in ArcGIS Pro:**
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/7-arcgis_pro_make_new_python_env_active.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMjUxMzg1LC0xOTQzMDY5MjgwLC0xMz
+eyJoaXN0b3J5IjpbNzk5NTExMTQyLC0xOTQzMDY5MjgwLC0xMz
 Y0OTgwNTA5XX0=
 -->
