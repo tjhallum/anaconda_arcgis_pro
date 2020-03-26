@@ -7,9 +7,7 @@
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/2-create_new_virtual_env.png)
 
-**3. Install Anaconda**
-	**● Check for the new cloned ArcGIS Pro Python virtual environment in Anaconda:**
-		**○ Uh oh...it's not listed:**
+**3. Install Anaconda. Then, check for the new cloned ArcGIS Pro Python virtual environment in Anaconda. Uh oh...it's not listed:**
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/3-anaconda_cant_see_arcgis_pro_python_env.png)
 	**● Locate Anaconda's .condarc file:**
@@ -29,5 +27,6 @@
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/7-arcgis_pro_make_new_python_env_active.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ5ODA1MDldfQ==
+eyJoaXN0b3J5IjpbLTE5NDMwNjkyODAsLTEzNjQ5ODA1MDldfQ
+==
 -->
