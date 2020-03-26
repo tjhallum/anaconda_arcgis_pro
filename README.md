@@ -4,7 +4,7 @@
  
 ![Run ArcGIS Pro as Admin](https://raw.githubusercontent.com/tjhallum/anaconda_arcgis_pro/master/1-run_arc_as_admin.png)
 
-**2. Create a new Python virtual environment in ArcGIS Pro as depicted below by cloning the default Python environment arcgispro-py3 (while you can use any unique name for your cloned environment, the steps below use deep learning).**
+**2. Create a new Python virtual environment in ArcGIS Pro as depicted below by cloning the default Python environment arcgispro-py3 (while you can use any unique name for your cloned environment, the steps below use "arcgispro-py3-deeplearning").**
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/2-create_new_virtual_env.png)
 
@@ -12,11 +12,11 @@
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/3-anaconda_cant_see_arcgis_pro_python_env.png)
 
-**4. Locate Anaconda's .condarc file (C:\Users\XXXXXXXX\.condarc). Original file content:**
+**4. Locate Anaconda's .condarc file (C:\Users\XXXXXXXX\.condarc). The original file will look something like this:**
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/4-orig_condarc_file.png)
 
-**5. Make the necessary edits to the .condarc file:**
+**5. Now, edit the .condarc file as depicted below:**
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/5-amended_condarc_file.png)
 
@@ -29,6 +29,6 @@
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/7-arcgis_pro_make_new_python_env_active.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE0OTk2MiwtMTk0MzA2OTI4MCwtMT
-M2NDk4MDUwOV19
+eyJoaXN0b3J5IjpbNDUyMjUxMzg1LC0xOTQzMDY5MjgwLC0xMz
+Y0OTgwNTA5XX0=
 -->
