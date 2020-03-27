@@ -20,7 +20,7 @@
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/5-amended_condarc_file.png)
 
-**6. With that, our cloned ArcGIS Pro Python environment is available for configuration in Anaconda’s familiar GUI & Command Line interfaces :**
+**6. With that, our cloned ArcGIS Pro Python environment is available for configuration in Anaconda’s familiar GUI & Command Line interfaces (the cloned ArcGIS Pro Python virtual environment should automatically appear in Anaconda within a few seconds...but if it doesn't, a restart of Anaconda might be ):**
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/6-anaconda_sees_arcgis_pro_python_env.png)
 
@@ -29,6 +29,6 @@
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/7-arcgis_pro_make_new_python_env_active.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjAzNjc3LDExMjcyNDU1NDIsMTc4MT
-ExODU2OCwtMTk0MzA2OTI4MCwtMTM2NDk4MDUwOV19
+eyJoaXN0b3J5IjpbMTY4MDE0MzM1MSwxMTI3MjQ1NTQyLDE3OD
+ExMTg1NjgsLTE5NDMwNjkyODAsLTEzNjQ5ODA1MDldfQ==
 -->
