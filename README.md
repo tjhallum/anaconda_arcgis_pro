@@ -12,7 +12,7 @@
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/3-anaconda_cant_see_arcgis_pro_python_env.png)
 
-**4. Locate Anaconda's .condarc file (C:\Users\XXXXXXXX\ .condarc). The original file will look something like this:**
+**4. Locate Anaconda's .condarc file (C:\Users\XXXXXXXX\\.condarc). The original file will look something like this:**
 
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/4-orig_condarc_file.png)
 
@@ -29,6 +29,6 @@
 ![enter image description here](https://github.com/tjhallum/anaconda_arcgis_pro/raw/master/7-arcgis_pro_make_new_python_env_active.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzI0NTU0MiwxNzgxMTE4NTY4LC0xOT
-QzMDY5MjgwLC0xMzY0OTgwNTA5XX0=
+eyJoaXN0b3J5IjpbMTkwMTIxMTMwNCwxMTI3MjQ1NTQyLDE3OD
+ExMTg1NjgsLTE5NDMwNjkyODAsLTEzNjQ5ODA1MDldfQ==
 -->
